@@ -1,14 +1,8 @@
-dovecot (1:2.2.27-3+deb9u4+hetz1~exp2) jessie-hetz-experimental; urgency=high
+dovecot (1:2.2.27-3+deb9u4+hetz1~exp3) jessie-hetz-experimental; urgency=high
 
   * Manual backport to Jessie following jessie-backports EOL
 
- -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Wed, 03 Apr 2019 13:57:48 +0200
-
-dovecot (1:2.2.27-3+deb9u4+hetz1~exp1) jessie-hetz-experimental; urgency=high
-
-  * Manual backport to Jessie following jessie-backports EOL
-
- -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Wed, 03 Apr 2019 13:57:48 +0200
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Wed, 03 Apr 2019 14:01:12 +0200
 
 dovecot (1:2.2.27-3+deb9u4) stretch-security; urgency=high
 
