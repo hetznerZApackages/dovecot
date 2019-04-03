@@ -1,3 +1,9 @@
+dovecot (1:2.2.27-3+deb9u4+hetz1) jessie-hetz; urgency=high
+
+  * Released 1:2.2.27-3+deb9u4+hetz1~exp4 as 1:2.2.27-3+deb9u4+hetz1
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Wed, 03 Apr 2019 14:55:58 +0200
+
 dovecot (1:2.2.27-3+deb9u4+hetz1~exp4) jessie-hetz-experimental; urgency=high
 
   * Manual backport to Jessie following jessie-backports EOL
