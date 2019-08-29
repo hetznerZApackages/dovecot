@@ -1,3 +1,9 @@
+dovecot (1:2.2.27-3+deb9u5+deb8hetz1) jessie-hetz; urgency=high
+
+  * Released 1:2.2.27-3+deb9u5+deb8hetz1~exp1 as 1:2.2.27-3+deb9u5+deb8hetz1
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 29 Aug 2019 13:27:22 +0200
+
 dovecot (1:2.2.27-3+deb9u5+deb8hetz1~exp1) jessie-hetz-experimental; urgency=high
 
   * Pulling in the Debian patches below 
