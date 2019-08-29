@@ -1,3 +1,22 @@
+dovecot (1:2.2.27-3+deb9u5+deb8hetz1~exp1) jessie-hetz-experimental; urgency=high
+
+  * Pulling in the Debian patches below 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 29 Aug 2019 10:46:25 +0200
+
+dovecot (1:2.2.27-3+deb9u5) stretch-security; urgency=high
+
+  * Non-maintainer upload by the Security Team.
+  * Fix CVE-2019-11500
+    - lib-imap: Don't accept strings with NULs
+    - lib-imap: Make sure str_unescape() won't be writing past allocated
+      memory
+    - lib-managesieve: Don't accept strings with NULs
+    - lib-managesieve: Make sure str_unescape() won't be writing past
+      allocated memory
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Sun, 25 Aug 2019 15:29:44 +0200
+
 dovecot (1:2.2.27-3+deb9u4+hetz1) jessie-hetz; urgency=high
 
   * Released 1:2.2.27-3+deb9u4+hetz1~exp4 as 1:2.2.27-3+deb9u4+hetz1
